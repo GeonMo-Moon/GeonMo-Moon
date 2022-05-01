@@ -1,4 +1,15 @@
 ### Hi there 👋
+<p>
+  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white"/>
+</p>
+
+
+
 
 <!--
 **GeonMo-Moon/GeonMo-Moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
